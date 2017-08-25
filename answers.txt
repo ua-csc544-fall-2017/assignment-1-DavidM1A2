@@ -1,0 +1,44 @@
+CSC 544
+David Slovikosky
+Assignment 1
+
+1. I am currently doing an independent study that requires analysis of massive amounts of data.
+I figured that visualizing it properly would make the analysis much easier.
+
+2. I think I will learn how to take thousands of data points and discover meaningful trends in 
+the data which can easily be seen.
+
+3. Java, C#, CSS, HTML, C, and some C++
+
+4. Java by far
+
+5. I have already created some visualizations for my independent study. Unfortunately,
+I'm not sure what the best approach is to visualizations, so I'm hoping to learn!
+
+6. My independent study deals with analysis of between a thousand and a few million pictures as data points.
+These images were stored on a server and had no tools to really access or analyse them.
+
+7. My favourite visualizations usually come from video games where interesting statistics are shared 
+through the use of various charts and graphs. These charts contain statistics such as average time to beat
+a level, total number of level playthroughs, etc... I like these visualizations because I can compare the
+way I enjoy playing to the way other people play the game.
+
+8. The worst visualization I have ever seen was the program I set out to improve in my independent study. It
+took a massive amount of images as input and created a few thousand lines of ascii text file as output.
+The text file contained ascii charts, tables, and graphs. They were incredibly difficult to read and understand.
+
+9. Based on my diverse experience with programming languages in internships and independent studies, I think I would
+ put myself in the top 20% of programmers in terms of experience.
+ 
+10. I have taken math up to Calculus 2 and Linear Algebra, so probably less than most people. I would guess i'm in the middle 
+of the class in terms of math skills. 
+
+11. Yes! I have used Github for many classes and my independent study. 
+
+12. I have a decent amount of experience with git, even though I typically do everything through Github Desktop or Github in general.
+
+13. Lots of experience with Github!
+
+14. Recently I've learned about JavaFX, a graphics library meant to replace Java's Swing. It's fantastic, and takes a completely different 
+approach to creating GUIs through the use of an XML like language. It acts a lot like C# XAML format. This has been exciting to learn 
+and implement in my independent study.
